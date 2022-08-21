@@ -62,18 +62,14 @@ background-size:cover ;
 background-position: center;
 background-attachment:fixed ;
 }
-#perde{
-  height: 400px;
-  background-color:rgb(242, 163, 163)42, 163, 163);
-  opacity:0.99;
 
-}
 .hakdivtext{
     font-size: 50px;
  font-family: 'Caveat', cursive;
 font-family: 'Nunito', sans-serif;
 font-family: 'Rubik Burned', cursive;
     text-align: center;
+    color: #236272;
 }
 .hakdivalt{
      text-align: center;
@@ -245,23 +241,19 @@ section > .baslik {
 }
 
 .anasayfaJumbotron{
-  background: url("../odev/yasmin.jpeg") no-repeat center center fixed;
+  background: url("../odev/dd.jpg") no-repeat center center fixed;
   background-size: cover !important;
   height: 100% !important;
   border-radius: 0% !important;
   margin-bottom:0 !important;
-  opacity: 0.5;
+  border-radius: 10% !important;
+}
+
+.hat{
+  color: rgb(225, 117, 225);
 }
 
 
-.sehrimJumbotron{
-  
-  background-size: cover !important;
-  height: 100% !important;
-  border-radius: 0% !important;
-  margin-bottom:0 !important;
-  opacity: 0.5;
-}
 
 
 
@@ -358,7 +350,7 @@ section > .baslik {
   height: 100% !important;
   border-radius: 20% !important;
   margin-bottom:0 !important;
-  opacity: 0.5;
+
 }
 
 .mirasimizJumbotronicerik{

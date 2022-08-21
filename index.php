@@ -4,7 +4,7 @@
     <div class="container">
 
         <br><br>
-        <p class="baslik text-dark text-center">Yasemin Şehri</p>
+        <p class="baslik text-dark text-center"></p>
         <br><br>
 
     </div>
@@ -12,13 +12,13 @@
 
 <div id="hakkinda" class="jumbotron">
     <div class="container">
-        <h1 class="display-4 text-center hakdivtext">Dünya Vatandaşı</h1>
+        <h1 class="display-4 text-center hakdivtext ">Dünya Vatandaşı</h1>
 
-        <p class="lead text-center">Hayatımı 3 ülke 9 okul arsında geçti</p>
+        <p class="lead text-center">Hayatımı 3 ülke ve 9 okul arsında geçti</p>
         <hr class="my-4">
         <div class="col-md-8 marginAuto">
 
-            <h1 class="display-4 text-center">Kişisel Bilgiler</h1>
+            <h1  class="display-4 text-center hat">Kişisel Bilgilerim</h1>
             <hr class="my-4">
             <table class=" table table-striped table-light text-dark">
                 <thead>
@@ -129,7 +129,7 @@
                             <li>
 
                                 <a href="#">Üniversite</a>
-                                <a href="#" id="none"> 2019- Devam Eediyor </a>
+                                <a href="#" id="none"> 2019- Devam Eediyorum </a>
                                 <p>Sakarya Üniversitesi </p>
                            
                                 </li> 
