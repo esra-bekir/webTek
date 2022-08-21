@@ -23,14 +23,14 @@
 
         <div class="col-md-6 mb-3">
           <label for="validationCustom03">Telefon</label>
-          <input type="tel" name="telefon" id="telefon" class="form-control" placeholder="05528061074">
+          <input type="tel" name="telefon" id="telefon" class="form-control" placeholder="05xxxxxxxxx">
           <label id="telefonKontrol" class="lblerr"></label>
         </div>
 
 
         <div class="col-md-6 mb-3">
           <label for="validationCustom05">Email</label>
-          <input type="text" name="email" id="email" class="form-control" placeholder="Email">
+          <input type="text" name="email" id="email" class="form-control" placeholder="Exmple@gmail.com">
           <label id="mailKontrol" class="lblerr"></label>
         </div>
 
