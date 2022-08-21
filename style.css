@@ -78,7 +78,7 @@ font-family: 'Rubik Burned', cursive;
 .hakdivalt{
      text-align: center;
   font-family:serif;
-    color: rgb(216, 238, 130);
+    color: rgb(0, 114, 132);
         
 }
 table {
@@ -331,4 +331,51 @@ section > .baslik {
   text-decoration: none;
   margin: 5px 2px;
   border-radius: 50%;
+}
+
+
+#cinsiyet {
+  display:none;
+}
+
+#iletisimFormuDiv {
+  margin:auto; 
+  background-color: #563d7c !important;
+  border: 1px solid black;
+}
+
+#iletisimBilgi {
+  margin:auto; 
+  background-color: #563d7c !important;
+  border: 1px solid black;
+}
+
+#loginSayfasi {
+  margin:auto; 
+  background-color: #563d7c !important;
+  border: 1px solid black;
+}
+
+#adminSayfasi {
+  margin:auto; 
+  background-color: #563d7c !important;
+  border: 1px solid black;
+}
+/*mirasimiz */
+
+.mirasimizJumbotron{
+  background: url("../odev/yas.jpg") no-repeat center center fixed;
+  background-size: cover !important;
+  height: 100% !important;
+  border-radius: 20% !important;
+  margin-bottom:0 !important;
+  opacity: 0.5;
+}
+
+.mirasimizJumbotronicerik{
+  background-size: cover !important;
+  height: 100% !important;
+  border-radius: 0% !important;
+  margin-bottom:0 !important;
+  padding:0px !important;
 }

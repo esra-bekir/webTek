@@ -4,7 +4,7 @@
     <div class="container">
 
         <br><br>
-        <p class="text-dark text-center baslik">HALEP</p>
+        <p class="text-dark text-center baslik"></p>
         <br><br>
 
     </div>
