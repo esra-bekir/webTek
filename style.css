@@ -1,0 +1,240 @@
+*{
+    box-sizing:border-box ;
+}
+
+body
+{
+    font-family: 'Moo Lah Lah', cursive;
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    background-color:floralwhite;
+
+}
+
+.grs-btn
+{
+    float: left;
+    padding: 8px;
+}
+#menu{
+
+height: 90px;
+padding: 0 20px;
+background-color: #dddddd;
+
+}
+#logo{
+
+    font-size:30px ;
+    line-height: 75px;
+    color:violet;
+    float: left;
+}
+nav{
+
+    float:right;
+    line-height:80px ;
+}
+nav a:link
+{
+
+text-decoration: none;
+margin-right:25px ;
+color: violet;
+}
+nav a:hover
+{
+
+border-bottom: 2px solid #003666;
+
+}
+.ikon{
+
+    margin-right: 8px;
+    font-size:16px ;
+}
+#anasayfa
+{
+
+height: 400px;
+background-image: url("../odev/yas.jpg");
+background-size:cover ;
+background-position: center;
+background-attachment:fixed ;
+}
+#perde{
+    height: 400px;
+    background-color:black;
+    opacity:0.5 ;
+
+}
+.hakdivtext{
+    font-size: 50px;
+ font-family: 'Caveat', cursive;
+font-family: 'Nunito', sans-serif;
+font-family: 'Rubik Burned', cursive;
+    text-align: center
+}
+.hakdivalt{
+     text-align: center;
+  font-family:serif;
+    color: violet;
+        
+}
+table {
+  border-collapse: collapse;
+  width: 75%;
+    margin: 0 200px
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:nth-child(even){background-color: #f2f2f2;}
+ tr:hover {background-color: violet;}
+ 
+  
+
+
+/*<!--eğtim bilgilerimm styl -->*/
+
+   .marginAuto {margin:0 450px;
+} 
+
+ul.timeline {
+  list-style-type:circle;
+  position: relative;
+    
+    
+}
+
+ul.timeline:before {
+  content: ' ';
+  background-color: violet;
+  display: inline-block;
+  position: absolute;
+  left: 28.8px;
+  width: 3px;
+  height: 100%;
+ 
+}
+
+ul.timeline > li {
+  margin: 20px 0;
+  padding-left: 20px;
+}
+
+ul.timeline > li:before {
+  content: ' ';
+  background: white;
+  display: inline-block;
+  position: absolute;
+  border-radius: 50%;
+  border: 3px solid #22c0e8;
+  left: 20px;
+  width: 20px;
+  height: 20px;
+  z-index: 400;
+}
+ #none
+{
+    float: right;
+    text-decoration: none;
+}
+.float-right 
+{
+    float: right;
+    text-decoration: line-through;
+}
+
+.orta-H1
+{
+    text-align: center;
+}
+
+.footer {
+    
+  background-color: #563d7c;
+  color: white !important;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.footer a{
+      color: lightskyblue;
+   
+}
+
+/*<!-- sehrim sayfasının style-->*/
+.sehrimSlider
+{
+  background-size: cover !important;
+  height: 100% !important;
+  margin-bottom:0px !important;
+  padding:10px !important;
+}
+
+h1.baslik {
+  color:#563d7c;
+  margin-bottom:2rem !important;
+  font-weight: bold;
+}
+
+div > a:hover {
+  color: white !important;
+  text-decoration: none !important;
+}
+
+section > .baslik {
+  color:#563d7c;
+  margin-bottom:2rem !important;
+}
+
+
+
+/*<!-- slide sayfasının style-->*/
+
+
+.button {
+  background-color: white; /* Green */
+  border:none;
+  color: blue;
+    padding-right: 20px;    padding-left: 20px;
+    padding-top: 7px;
+    padding-bottom: 1px;
+ 
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 0 2px;
+  cursor: pointer;
+
+    
+}
+
+
+.bicim{
+ 
+ padding: 20px;
+    border: 3px solid #151514;
+    margin: 0 500px;
+    margin-top:20px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    border-radius: 17px;
+    background-color: rgb(232, 199, 232)
+  
+
+}
+
+
+.button1 :hover {
+  background-color: black;
+  color: red;
+}
