@@ -1,91 +1,121 @@
 <?php include "header.php"; ?>
 
 <div class="jumbotron sehrimSlider">
-	<div class="container mt-3">
-		
-		<?php include "slider.php"; ?>
+    <div class="container mt-3">
 
-	</div>
+        <?php include "slider.php"; ?>
+
+    </div>
 </div>
 
 <div class="jumbotron sehrimSlider">
-	<div class="container">
-		<div class="marginAuto">
+    <div class="container">
+        <div class="marginAuto">
 
-			<section>
-				<hr class="my-4">
-				<h1 id="baslik1" class="baslik" class="display-4 mb-4">Kudüs</h1>
-				
-				<div class="row">
+            <section>
+                <hr class="my-4">
+                <h1 id="baslik1" class="baslik" class="display-4 mb-4">Lazkiye</h1>
 
-					<div class="col-md-6">
-						<img class="mb-4" src="deniz.jpeg" height="400" width="660"/>
-					</div>
+                <div class="row">
 
-					<div class="col-md-6 mt-5">
-						<h5>En eski şehirlerinden biridir. Müslümanlar için Kudüs üçüncü en kutsal şehirdir. Osmanlı yönetimi boyunca Kudüs bir şehir ve önemli bir din merkezi olarak kaldı. İsrail Kudüs'ü 1967 yılında işgal etti. Filistin'in başkenti 125km² Akdeniz ve Ölüdeniz’in (Lut Gölü) kuzey sınırı arasında yer almaktadır. Kudüs'ün nufusu 874,186.<br> Kudüs'te en önemli yerler:</h5><Font color="blue">Mescid-i Aksa, Kıyamet Klisesi, Burak Duvarı</Font>
-						
-					</div>
+                    <div class="col-md-6">
+                        <img class="mb-4" src="lat.jpg" height="400" width="660" />
+                    </div>
 
-				</div>
-			</section>
+                    <div class="col-md-6 mt-5">
+                        <h5>Orjinal adıyla Lattakia olan Lazkiye Suriye'de bir liman kentidir. Su sporları için oldukça
+                            ideal bir noktadadır. Hatay'ın 70 km. güneyinde bulunmaktadır.
 
-			<section>
-				<hr class="my-4">
-				<h1 id="baslik2" class="baslik" class="display-4 mb-4">Mescid-i Aksa</h1>
-				
-				<div class="row">
+                            Kent ayrıca ülke standartlarından oldukça yüksek olan Tishreen Universitesini'ni de
+                            bünyesinde barındırır.
 
-					<div class="col-md-6">
-						<img class="mb-4" src="ev.jpeg" height="400" width="660"/>
-					</div>
+                            Haçlı seferleri sırasında ağır hasara uğramış, depremler yaşamış. Ama hep canlı bir liman
+                            kenti olarak kalmış. Osmanlı zamanında liman çok aktif olarak kullanılmamışsa da kent her
+                            zaman Suriye'nin en büyük liman kenti olmuştur.</Font>
 
-					<div class="col-md-6 mt-1">
-						<h5>Müslümanlarca kutsal kabul edilen mekânlardan biridir ve Müslümanların ilk kıblesi olduğuna inanılır. Kudüs'ün doğusundaki Eski Şehir bölgesinde Mescid-i Aksa'nın adlandırması, surlarla çevrili eski şehrin güney doğu köşesinin en uzak noktasına kadar uzanan, surla çevrili bölge içerisindeki alanın tamamı için kullanılır. Bu alanın yüzölçümü yaklaşık 144 dönüm olup, Kubbet-üs-Sahra, Kıble Mescidi ve sayısı iki yüze ulaşan birçok esere sahiplik eder. "Morya Tepesi" adı verilen küçük bir tepe üzerine inşa edilmiş olup, Kubbet-üs-Sahra'nın üzerine kurulduğu kaya bu tepenin en yüksek noktası olarak kabul edilir.</h5>
+                    </div>
 
-					</div>
+                </div>
+            </section>
 
-				</div>
-			</section>
+            <section>
+                <hr class="my-4">
+                <h1 id="baslik2" class="baslik" class="display-4 mb-4">Şam Evleri</h1>
 
-			<section >
-				<hr class="my-4">
-				<h1 id="baslik3" class="baslik" class="display-4 mb-4">Kıble Mescidi</h1>
-				<div class="row">
+                <div class="row">
 
-					<div class="col-md-6">
-						<img class="mb-4" src="nevair.jpeg" height="400" width="660" alt="my personal photo"/>
-					</div>
+                    <div class="col-md-6">
+                        <img class="mb-4" src="ev3.jpg" height="400" width="660" />
+                    </div>
 
-					<div class="col-md-6 mt-1">
-						<h5>Kubbesi kurşun kaplama olan Kıble Mescidi, Mescid-i Aksa’nın güneyinde yer aldığından dolayı Kıble Mescidi olarak adlandırılır. Aynı şekilde Mescid-i Cenubi, Kıble Cami diye de bilinmektedir. Bilinen en eski adıyla ise Cami-ul Aksa ve Masguf'dur. Caminin inşasını ilk kez hicretin 15. yılında Kudüs’ün fethi sırasında Ömer bin Hattab emretmiştir. Ardından Emeviler döneminde Halife Abdul Melik bin Mervan tarafından inşasına başlanmış ve oğlu Halife Velid bin Abdul Melik tarafından inşası tamamlanmıştır (710). Abdul Melik tarafından inşa edilen kısımların günümüze ulaşmadığı söylenmektedir. Abdul Melik’ten sonra gelen Halife Ebu Cafer El-Mansur, Halife El-Mehdi gibi Emevi ve Abbasi halifeleri, depremler ve doğal afetlerin yol açtığı hasarları onarmıştır.</h5>
-					</div>
+                    <div class="col-md-6 mt-1">
+                        <h5>Dışarıdan mütevazı, geleneksel Şam evleri, sahiplerine mahremiyet ve huzur vermek ve
+                            misafirlerini etkilemek için tasarlandı.
+                            Eski Şam'ın dar sokakları, Selçuklu, Memlük ve Osmanlı döneminden kalma eski camilere,
+                            hamamlara, medreselere ve hatta bimaristanlara (hastaneler) ev sahipliği yapmaktadır.</h5>
 
-				</div>
-			
-		</section>
+                    </div>
 
-        
-		<section>
-			<hr class="my-4">
-			<h1 id="baslik4" class="baslik" class="display-4 mb-4">Esbat Kapısı</h1>
-			<div class="row">
+                </div>
+            </section>
 
-				<div class="col-md-6">
-					<img class="mb-4" src="nehir.jpeg" height="400" width="660" alt="my personal photo"/>
-				</div>
+            <section>
+                <hr class="my-4">
+                <h1 id="baslik3" class="baslik" class="display-4 mb-4">Su Çarkları</h1>
+                <div class="row">
 
-				<div class="col-md-6 mt-5">
-					<h5>Mescid-i Aksa’nın toplam 15 kapısı vardır. 10 tanesi açık, kalan 5’i ise kapalıdır. Esbat Kapısı ise Mescid-i Aksa’nın  en önemli kapılardan biridir. Mescid-i Aksa’nın kuzeydoğu tarafında yer alır. İnşa tarihi 1213’dür. Birden fazla onarım geçirmiştir. 1367 yılında Memluklular döneminde de yenilenip yanına bir minare ilave edildi. Adı “Esbat Kapı Minaresi” koyuldu. Şimdiki bulunan kapının inşa tarihi 1538’de Kanuni Sultan Süleyman dönemine uzanmaktadır. Kemerli bir kapıdır ve 4 metre yüksekliğindedir. </h5>
-				</div>
+                    <div class="col-md-6">
+                        <img class="mb-4" src="nevair2.jpg" height="400" width="660" alt="my personal photo" />
+                    </div>
 
-			</div>
-		</section>
+                    <div class="col-md-6 mt-1">
+                        <h5>Bir su çarkı a, makine genellikle de, akan ya da güç yararlı formlara düşen su enerjisini
+                            dönüştürmek için su değirmeni . Bir su çarkı , sürüş arabasını oluşturan dış jantta
+                            düzenlenmiş bir dizi bıçak veya kovaya sahip bir tekerlekten (genellikle ahşap veya metalden
+                            yapılmıştır) oluşur .
 
-        
-        
-	</div>
-</div>
+
+                            Welzheim , Almanya'da tarihi bir aşırı su çarkı
+
+                            Bir güç su tekerlek maden kaldırma içinde de yeniden metallica (1566) kadar
+                            Otley su çarkının sesi, Manchester Bilim ve Endüstri Müzesi'nde
+                            Su çarkları, 20. yüzyılda hala ticari kullanımdaydı, ancak artık ortak kullanımda değiller.
+                            Kullanım freze unu dahil gristmills için kağıt hamuru içine odun öğütme , kağıt yapımında ,
+                            çekiçleme dövme demir ezme ve üretiminde kullanım için fiber vurma maden cevheri, işleme
+                            kumaş .</h5>
+                    </div>
+
+                </div>
+
+            </section>
+
+
+            <section>
+                <hr class="my-4">
+                <h1 id="baslik4" class="baslik" class="display-4 mb-4">Tatlılar</h1>
+                <div class="row">
+
+                    <div class="col-md-6">
+                        <img class="mb-4" src="tatli.jpg" height="400" width="660" alt="my personal photo" />
+                    </div>
+
+                    <div class="col-md-6 mt-5">
+                        <h5>Suriye mutfağı, tarihi boyunca Suriye’ye yerleşmiş insanların alışkanlıklarını birleştirerek
+                            modern Suriye’nin yemek pişirme geleneklerini ve uygulamalarını içerir.
+
+                            Suriye mutfağında ağırlıklı olarak patlıcan, kabak, sarımsak, et (çoğunlukla kuzu ve
+                            koyundan), susam tohumu, pirinç, nohut, bakla, mercimek, lahana, karnabahar, asma yaprağı,
+                            turşu, salatalık, domates, zeytinyağı, limon suyu, fıdtık, nane, bal ve meyveler kullanılır.
+                        </h5>
+                    </div>
+
+                </div>
+            </section>
+
+
+
+        </div>
+    </div>
 
 </div>
 <?php include "footer.php"; ?>

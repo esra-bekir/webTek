@@ -4,10 +4,10 @@
 </style>
 
 <div class="w3-content w3-display-container">
-   <a href="#baslik1"> <img class="mySlides" src="deniz.jpeg" style="width:100%" ></a> 
-  <a href="#baslik2"><img class="mySlides" src="ev.jpeg" style="width:100%"></a>
-  <a href="#baslik3"><img class="mySlides" src="nevair.jpeg" style="width:100%"></a>
-  <a href="#baslik4"><img class="mySlides" src="nehir.jpeg" style="width:100%"></a>
+   <a href="#baslik1"> <img class="mySlides" src="lat.jpg" style="width:100%" ></a> 
+  <a href="#baslik2"><img class="mySlides" src="ev4.jpg" style="width:100%"></a>
+  <a href="#baslik3"><img class="mySlides" src="nevair2.jpg" style="width:100%"></a>
+  <a href="#baslik4"><img class="mySlides" src="tatli.jpg" style="width:100%"></a>
 
   <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
   <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>

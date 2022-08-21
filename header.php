@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<link rel="stylesheet" href="style.css">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -33,7 +34,6 @@
     <div id="logo" >Essraa Bakr</div>
 <nav >
 <a href="index.php"><i class="fa-solid fa-house ikon"></i>  Anasayfa</a>
-<a href="index.php"><i class="fa-solid fa-circle-info ikon"></i>  Hakkımızda</a>
 <a href="Sehrim.php"><i class="fa-solid fa-city ikon"></i>  Şehrim</a>
 <a href=""><i class="fa-solid fa-mosque ikon"></i>  Mirasımız</a>
 <a href=""><i class="fa-solid fa-map-pin ikon"></i> iletişim</a>
