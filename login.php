@@ -9,9 +9,9 @@ if(isset($_SESSION["login"]))
 	header("Location:admin.php");
 
 ?>
-<br><br><br><br><br><br><br><br>
+<br>
 <center>
- <div class="jumbotron bicim" >
+ <div class="jumbotron" >
 
     <div id="loginSayfasi" class="container shadow-lg col-md-4 text-white">
         <div calss="renk">
@@ -33,17 +33,14 @@ if(isset($_SESSION["login"]))
         </form>
 		
     </div>
-    <br>
+
     <p>Email:b181200552@sakarya.edu.tr</p>
     <p>Şifre: 1234</p><br>
 </div>
 </center>
 <br>
 <br>
+
 </div>
 </div>
-<br>
-<br><br>
-<br><br>
-<br>
 <?php include "footer.php"; ?>

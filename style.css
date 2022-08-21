@@ -159,6 +159,7 @@ ul.timeline > li:before {
     
   background-color: #563d7c;
   color: white !important;
+  font-style: fixed;
 }
 
 .footer > .container {
@@ -219,19 +220,7 @@ section > .baslik {
 }
 
 
-.bicim{
- 
- padding: 20px;
-    border: 3px solid #151514;
-    margin: 0 500px;
-    margin-top:20px;
-    -webkit-border-radius: 17px;
-    -moz-border-radius: 17px;
-    border-radius: 17px;
-    background-color: rgb(232, 199, 232)
-  
 
-}
 
 /*anasayfa */
 .button1 :hover {
@@ -266,7 +255,7 @@ section > .baslik {
 
 
 .sehrimJumbotron{
-  background: url("../img/kudus2.jpg") no-repeat center center fixed;
+  
   background-size: cover !important;
   height: 100% !important;
   border-radius: 0% !important;
