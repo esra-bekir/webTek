@@ -51,8 +51,9 @@
                 gösterilir.
                 Caminin iç mekanında, tepesi açık bir kubbenin altında bulunan şadırvan, Ulu Cami’nin dikkat çekici
                 özelliklerindendir.
-                <h1>En önemli futbol takımı </h1><a href="https://www.bursaspor.org.tr/" alt="ee">
-                    <h5> Bursa Spor.</h5>
+
+                <center><h1>En önemli futbol takımı </h1><a href="https://www.bursaspor.org.tr/" alt="ee">
+                   <h5> Bursa Spor.</h5></center> 
                 </a>
         </div>
         <br>

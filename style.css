@@ -20,32 +20,43 @@ body
 
 height: 90px;
 padding: 0 20px;
-background-color: #dddddd;
+background-color: rgb(111, 30, 111);
 
 }
 #logo{
 
     font-size:30px ;
     line-height: 75px;
-    color:violet;
+    color:rgb(255, 255, 255);
     float: left;
 }
 nav{
 
     float:right;
     line-height:80px ;
+    color: rgb(255, 255, 255);
 }
 nav a:link
 {
 
 text-decoration: none;
 margin-right:25px ;
-color: violet;
+
 }
 nav a:hover
 {
 
-border-bottom: 2px solid #003666;
+border-bottom: 2px solid #c401b0;
+
+}
+
+
+
+nav a
+{
+
+border-bottom: 2px solid #ffeeee;
+  color:rgb(255, 255, 255)
 
 }
 .ikon{
@@ -97,8 +108,28 @@ tr:nth-child(even){background-color: #f2f2f2;}
 
 /*<!--eğtim bilgilerimm styl -->*/
 
-   .marginAuto {margin:0 450px;
+   .marginAuto
+   
+{margin:0 450px;
+ 
 } 
+
+h5 {
+  display: block;
+  font-size: 0.83em;
+  margin-block-start: 1.67em;
+  margin-block-end: 1.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  font-size: larger;
+  text-align:justify;
+}
+
+.mb-4{
+
+  width: 750px;
+}
 
 ul.timeline {
   list-style-type:circle;
@@ -361,3 +392,4 @@ section > .baslik {
   margin-bottom:0 !important;
   padding:0px !important;
 }
+
