@@ -12,7 +12,7 @@
 
 <div id="hakkinda" class="jumbotron">
     <div class="container">
-        <h1 class="display-4 text-center hakdivtext ">Dünya Vatandaşı</h1>
+        <h1 class="display-4 text-center hakdivtext ">Dünya VatandaşıL</h1>
 
         <p class="lead text-center">Hayatımı 3 ülke ve 9 okul arsında geçti</p>
         <hr class="my-4">
